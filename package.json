@@ -1,0 +1,21 @@
+{
+  "name": "good-theme",
+  "displayName": "good-theme",
+  "description": "it's a theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Good Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Good Theme-color-theme.json"
+      }
+    ]
+  }
+}
