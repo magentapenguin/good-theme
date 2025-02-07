@@ -1,11 +1,12 @@
 {
-  "name": "good-theme",
-  "displayName": "good-theme",
+  "name": "a-very-good-theme",
+  "displayName": "Good Theme",
   "description": "it's a theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "publisher": "magentapenguin",
   "categories": [
     "Themes"
   ],
