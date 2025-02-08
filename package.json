@@ -2,7 +2,7 @@
   "name": "a-very-good-theme",
   "displayName": "Good Theme",
   "description": "it's a theme",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.60.0"
   },
