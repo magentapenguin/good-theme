@@ -2,10 +2,11 @@
   "name": "a-very-good-theme",
   "displayName": "Good Theme",
   "description": "it's a theme",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.60.0"
   },
+  "icon": "logo.png",
   "publisher": "magentapenguin",
   "categories": [
     "Themes"
