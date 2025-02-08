@@ -17,6 +17,11 @@
         "label": "Good Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Good Theme-color-theme.json"
+      },
+      {
+        "label": "Good Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/Good Theme Light-color-theme.json"
       }
     ]
   },
