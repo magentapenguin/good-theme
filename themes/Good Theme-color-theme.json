@@ -57,7 +57,7 @@
 		"settings.dropdownBackground": "#382b3f",
 		"settings.textInputBackground": "#382b3f",
 		"settings.numberInputBackground": "#382b3f",
-		"settings.checkboxBackground": "#382b3f",
+		"settings.checkboxBackground": "#1e0f29",
 		"settings.checkboxBorder": "#776e71",
 		"settings.textInputForeground": "#eeffff",
 		"settings.numberInputForeground": "#eeffff",
