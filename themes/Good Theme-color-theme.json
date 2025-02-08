@@ -48,7 +48,7 @@
 		"list.hoverBackground": "#372b3d",
 		"list.activeSelectionBackground": "#372b3d",
 		"list.inactiveSelectionBackground": "#2f2633",
-		"editor.lineHighlightBackground": "#48165e",
+		"editor.lineHighlightBackground": "#2f2633",
 		// inputs
 		"dropdown.background": "#261d2b",
 		"dropdown.listBackground": "#261d2b",
@@ -227,6 +227,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FFCB6B"
 			}
 		},

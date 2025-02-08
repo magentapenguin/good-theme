@@ -15,7 +15,7 @@
     "themes": [
       {
         "label": "Good Theme",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs-dark", 
         "path": "./themes/Good Theme-color-theme.json"
       }
     ]
