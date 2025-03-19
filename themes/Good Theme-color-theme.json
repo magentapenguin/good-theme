@@ -16,6 +16,7 @@
 		"activityBar.background": "#140220",
 		"activityBar.foreground": "#ffffff",
 		"button.background": "#a10fa1",
+		"button.secondaryBackground": "#372b3d",
 		"statusBarItem.remoteBackground": "#810086",
 		"statusBar.background": "#660069",
 		"statusBar.debuggingBackground": "#3f007a",
@@ -228,7 +229,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c6ff6b"
+				"foreground": "#70ff6b"
 			}
 		},
 		{
