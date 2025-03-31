@@ -677,6 +677,46 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		{
+			"name": "Log - Error",
+			"scope": [
+				"log.error",
+			],
+			"settings": {
+				"foreground": "#920000",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Log - Warning",
+			"scope": [
+				"log.warning",
+			],
+			"settings": {
+				"foreground": "#743e00",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Log - Info",
+			"scope": [
+				"log.info",
+			],
+			"settings": {
+				"foreground": "#009200",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Log - Debug",
+			"scope": [
+				"log.debug",
+			],
+			"settings": {
+				"foreground": "#009292",
+				"fontStyle": "bold"
+			}
+		},
 	]
 }

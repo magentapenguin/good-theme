@@ -41,7 +41,6 @@
 		"terminal.foreground": "#eeffff",
 		"terminal.background": "#261d2b",
 		"terminal.selectionBackground": "#43e0e030",
-		
 		"editor.selectionBackground": "#43e0e030",
 		"menu.background": "#261d2b",
 		"menu.selectionBackground": "#a10fa194",
@@ -678,6 +677,46 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		{
+			"name": "Log - Error",
+			"scope": [
+				"log.error",
+			],
+			"settings": {
+				"foreground": "#ff3d3d",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Log - Warning",
+			"scope": [
+				"log.warning",
+			],
+			"settings": {
+				"foreground": "#ffb300",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Log - Info",
+			"scope": [
+				"log.info",
+			],
+			"settings": {
+				"foreground": "#3bFF3b",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Log - Debug",
+			"scope": [
+				"log.debug",
+			],
+			"settings": {
+				"foreground": "#3bFFFF",
+				"fontStyle": "bold"
+			}
+		},
 	]
 }
