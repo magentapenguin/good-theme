@@ -684,7 +684,7 @@
 				"log.error",
 			],
 			"settings": {
-				"foreground": "#920000",
+				"foreground": "#e45649",
 				"fontStyle": "bold"
 			}
 		},
@@ -694,7 +694,7 @@
 				"log.warning",
 			],
 			"settings": {
-				"foreground": "#743e00",
+				"foreground": "#d4960e",
 				"fontStyle": "bold"
 			}
 		},
@@ -704,7 +704,7 @@
 				"log.info",
 			],
 			"settings": {
-				"foreground": "#009200",
+				"foreground": "#64c96c",
 				"fontStyle": "bold"
 			}
 		},
@@ -714,9 +714,19 @@
 				"log.debug",
 			],
 			"settings": {
-				"foreground": "#009292",
+				"foreground": "#5acece",
 				"fontStyle": "bold"
 			}
 		},
+		{
+			"name": "Log - Date",
+			"scope": [
+				"log.date",
+			],
+			"settings": {
+				"foreground": "#776e71",
+				"fontStyle": "italic bold",
+			}
+		}
 	]
 }
